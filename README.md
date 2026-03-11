@@ -18,9 +18,6 @@ The real question isn't "what did we test?" but "what risk did we reduce?"
 - Lead quality initiatives across distributed teams
 - Focus on test automation, CI/CD pipelines, and quality metrics
 - AI Testing practitioner: leveraging AI to enhance testing processes
-
-**Automation is a daily routine**
-- I believe automation is not a luxury but a necessity for sustainable quality
 - Building test frameworks and automating regression suites is part of my work
 
 **This GitHub is my playground**
