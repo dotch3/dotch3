@@ -1,16 +1,14 @@
-## Hi there 👋 I'm Jorge
-
 🎯 **QA Engineer & Quality Engineering Leader**
 
-With 15+ years in quality engineering field, I specialize in leading and designing scalable quality processes that drive efficient testing in complex software products.
-Testing is far more than executing test cases, It's about **critical thinking**, understanding **product intent**, and evaluating whether a feature truly **delivers business value**. 
-I believe in **risk-based testing**, **Context-driven** testing and metrics without context are just numbers  ¯\_(ヅ)_/¯ 
+With 15+ years in quality engineering, I specialize in leading and designing scalable quality processes that drive efficient testing in complex software products.
+
+Testing is far more than executing test cases — it's about **critical thinking**, understanding **product intent**, and evaluating whether a feature truly **delivers business value**. I believe in **risk-based testing**; **context-driven testing** is key, and metrics without context are just numbers ¯\_(ツ)_/¯
 
 The real question isn't "what did we test?" but "what risk did we reduce?"
 
 **Technical Background**
-- Computer Science degree
-- Systems Information degree  
+- Bachelor's degree in Computer Science
+- Bachelor's degree in Systems Information  
 - MBA in Software Engineering
 
 **What I do**
@@ -27,5 +25,4 @@ The real question isn't "what did we test?" but "what risk did we reduce?"
 - Demonstrating testing approaches and quality best practices
 - Learning and implementing new tools, languages, and technologies
 
-📫 **Let's connect**
-🔗 https://www.linkedin.com/in/jorge-mercado-carrasco/
+📫 **Let's connect** 🔗 [https://www.linkedin.com/in/jorge-mercado-carrasco/](https://www.linkedin.com/in/jorge-mercado-carrasco/)
